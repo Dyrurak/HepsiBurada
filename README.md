@@ -1,1 +1,1 @@
-HepsiBurada sitesi alışveriş senaryosunun Selenium ve BDD ile Otomasyonu
+HepsiBurada sitesi alışveriş senaryolarının Selenium ve BDD ile Test Otomasyonu
